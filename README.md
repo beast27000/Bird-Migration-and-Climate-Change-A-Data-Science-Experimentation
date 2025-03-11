@@ -1,10 +1,6 @@
 # Bird-Migration-and-Climate-Change-A-Data-Science-Experimentation
 This project investigates the relationship between bird migration patterns and climate change using real-time data from eBird API and OpenWeather API. The project collects data on bird sightings, merges it with weather data, and performs exploratory analysis and machine learning modeling to study patterns.
 
-# Bird Migration and Climate Change: A Data Science Experimentation  
-
-This project investigates the relationship between **bird migration patterns** and **climate change** using real-time data from the **eBird API** and **OpenWeather API**. The project collects **bird sighting data**, merges it with corresponding weather conditions, and applies **exploratory data analysis (EDA)** and **visualization techniques** to study patterns.
-
 ## Project Workflow  
 1. **Data Collection** (`super_pull.py`)  
    - Fetches bird migration data from the **eBird API** (last 30 days).  
